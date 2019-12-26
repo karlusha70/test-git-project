@@ -4,5 +4,4 @@ This file will contain the index of all the files in the project.
     2. readme.txt - the second file added to the project.
     3. index.txt -  the third file, as a matter of fact, this one.
 
-Only admins should change this file.
-
+Only admins should change this file. It's totally important!
